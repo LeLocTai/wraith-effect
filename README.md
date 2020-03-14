@@ -12,3 +12,7 @@ Witcher 3 inspired wraith effect in Unity using Shader Graphs
  - Opaque objects only
  - Requires copying of opaque buffer -> can be expensive on some GPUs
  - Minimal customer support
+
+---
+
+Free projects like this are funded by my [super cool assets](https://assetstore.unity.com/packages/tools/gui/translucent-image-high-performance-blur-behind-ui-78464?aid=1011l4nGC), check them out!
