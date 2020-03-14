@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Wraith
+  m_Shader: {fileID: -6465566751694194690, guid: bf1a6108360ec904a80a71e6402bf99a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2F4C4298:
+        m_Texture: {fileID: 2800000, guid: 51f642054bcefba43a862d8bd0310909, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_3058FB5F:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CameraOpaqueTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BOOLEAN_CEB75CE0: 0
+    - Vector1_2A5385C3: 4
+    - Vector1_7580970: 0.3
+    - Vector1_BAEB3CEE: 0.6
+    - Vector1_BAEF3108: 2.2
+    - Vector1_C42F0BAF: 0.5
+    - Vector1_DC7DBB65: 0
+    - _WorldDepth: 2.18
+    m_Colors:
+    - Color_AA7D5C3: {r: 0.95, g: 0.95, b: 0.95, a: 1}
+    - Vector2_2946BAD7: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - Vector2_A76334C2: {r: -0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_E1797411: {r: 0.015, g: 0.01, b: 0, a: 0}
+    - Vector2_FB933E67: {r: 0.01, g: -0.015, b: 0, a: 0}
+    - Vector4_A5A920CA: {r: 2, g: 2, b: 0.02, a: 0.02}
